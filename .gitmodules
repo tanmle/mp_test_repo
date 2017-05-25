@@ -1,3 +1,6 @@
 [submodule "subrepo"]
 	path = subrepo
 	url = https://github.com/tanmle/subrepo
+[submodule "testing"]
+	path = testing
+	url = https://github.com/tanmle/subrepo.git
